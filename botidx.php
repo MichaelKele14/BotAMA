@@ -26,3 +26,4 @@ if ($json['tickers'][$token] > 0) {
 //  $price = $json[0]["last_price"];
 //  file_get_contents($apiURL . "/sendmessage?chat_id=" . $chatID . "&text=Harga " . $keterangan . " di Digiasset saat ini adalah " . $price);
 //}
+?>
